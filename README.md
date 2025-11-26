@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajas Bin Ajmal</h1>
 <h3 align="center">A passionate software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajasbinajmal&label=Profile%20views&color=0e75b6&style=flat" alt="ajasbinajmal" /> </p>
+<!--p align="left"> <img src="https://komarev.com/ghpvc/?username=ajasbinajmal&label=Profile%20views&color=0e75b6&style=flat" alt="ajasbinajmal" /> </p>
 
 <!--h3 align="left">Connect with me:</h3>
 <p align="left">
